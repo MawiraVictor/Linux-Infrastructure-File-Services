@@ -1,0 +1,7 @@
+# Secrets
+*passwd*
+*.key
+*.pem
+
+# Runtime
+*.log
